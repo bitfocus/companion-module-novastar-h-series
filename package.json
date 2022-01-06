@@ -1,31 +1,31 @@
 {
-  "name": "h-series",
+  "name": "novastar-h-series",
     "version": "1.0.0",
     "api_version": "1.0.0",
-    "description": "H-Series LED Screen Video Processor",
+    "description": "Novastar H-Series LED Screen Video Processors",
     "keywords": [
         "Novastar",
-        "H-series",
+        "H-Series",
         "H2",
         "H5",
         "H9",
         "H15"
     ],
     "manufacturer": "Novastar",
-    "product": "H-seires",
+    "product": "H-Series",
     "model": ["H2",
               "H5",
               "H9",
               "H15"
     ],
-    "shortname": "H-Series",
-     "homepage": "https://github.com/bitfocus/companion-module-generic-tcp-udp#readme",
+    "shortname": "novastar-h-series",
+     "homepage": "https://github.com/bitfocus/companion-module-novastar-h-series#readme",
     "main": "index.js",
 
     "author": "Ritesh Patel <Ritesh@RedDotLogics.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bitfocus/companion-module-generic-tcp-udp/issues"
+        "url": "https://github.com/bitfocus/companion-module-novastar-h-series/issues"
     }
 }
 
