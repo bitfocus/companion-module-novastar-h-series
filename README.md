@@ -1,2 +1,8 @@
-# companion-module-[replace with module name]
-See [HELP.md](./HELP.md) and [LICENSE](./LICENSE)
+# Novastar H Series LED Screen Video Processor module
+
+
+Send UDP commands on port 6000 to Novastar H series LED screen Video Processors
+* Change Brightness
+* Recall Presets
+* Send custom commands 
+
