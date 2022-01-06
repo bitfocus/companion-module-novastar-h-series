@@ -26,11 +26,6 @@ instance.prototype.updateConfig = function(config) {
         delete self.udp;
     }
 
-    if (self.socket !== undefined) {
-        self.socket.destroy();
-        delete self.socket;
-    }
-
     self.config = config;
 
     self.init_udp();
@@ -102,10 +97,6 @@ instance.prototype.config_fields = function() {
 // When module gets deleted
 instance.prototype.destroy = function() {
     var self = this;
-
-    if (self.socket !== undefined) {
-        self.socket.destroy();
-    }
 
     if (self.udp !== undefined) {
         self.udp.destroy();
