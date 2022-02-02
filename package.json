@@ -1,30 +1,34 @@
 {
-    "name": "novastar-h-series",
-    "version": "1.0.1",
-    "api_version": "1.0.0",
-    "description": "Novastar H-Series LED Screen Video Processors",
-    "keywords": [
-        "Novastar",
-        "H-Series",
-        "H2",
-        "H5",
-        "H9",
-        "H15"
-    ],
-    "manufacturer": "Novastar",
-    "product": "H-Series",
-    "model": [
-        "H2",
-        "H5",
-        "H9",
-        "H15"
-    ],
-    "shortname": "novastar-h-series",
-    "homepage": "https://github.com/bitfocus/companion-module-novastar-h-series#readme",
-    "main": "index.js",
-    "author": "Ritesh Patel <Ritesh@RedDotLogics.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/bitfocus/companion-module-novastar-h-series/issues"
-    }
+	"name": "novastar-h-series",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"description": "Novastar H-Series LED Screen Video Processors",
+	"keywords": [
+		"Novastar",
+		"H-Series",
+		"H2",
+		"H5",
+		"H9",
+		"H15"
+	],
+	"manufacturer": "Novastar",
+	"product": "H-Series",
+	"model": [
+		"H2",
+		"H5",
+		"H9",
+		"H15"
+	],
+	"shortname": "novastar-h-series",
+	"homepage": "https://github.com/bitfocus/companion-module-novastar-h-series#readme",
+	"main": "index.js",
+	"author": "Ritesh Patel <Ritesh@RedDotLogics.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-novastar-h-series/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-novastar-h-series.git"
+	}
 }
