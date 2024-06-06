@@ -1,0 +1,26 @@
+{
+  "id": "novastar-splicer",
+  "name": "novastar-splicer",
+  "shortname": "novastar-splicer",
+  "description": "Companion module for the splicer of Novastar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "git+git+https://github.com/bitfocus/companion-module-novastar-h-series.git",
+  "bugs": "git+https://github.com/bitfocus/companion-module-novastar-h-series.git/issues",
+  "maintainers": [
+    {
+      "name": "NovaStar",
+      "email": ""
+    }
+  ],
+  "runtime": {
+    "type": "node18",
+    "api": "nodejs-ipc",
+    "apiVersion": "0.0.0",
+    "entrypoint": "../src/main.js"
+  },
+  "legacyIds": [],
+  "manufacturer": "Novastar",
+  "products": ["Splicer"],
+  "keywords": ["Splicer", "Novastar", "H-series", "H2", "H5", "H9", "H15"]
+}
