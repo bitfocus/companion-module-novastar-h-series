@@ -23,3 +23,9 @@ export const FTB_CHOICES = [
 ];
 
 export const DEFAULT_COMMAND = '[{"cmd":"W041A","screenId":1,"enable":0}]';
+
+export const OLD_ACTION_TO_NEW = {
+  recall: "play_preset",
+  brightness: "brightness",
+  send: "send_command",
+};
