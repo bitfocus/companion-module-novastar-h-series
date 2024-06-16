@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"repository": {
 	  "type": "git",
-	  "url": "git+https://github.com/bitfocus/companion-module-novastar-h-series.git"
+	  "url": "https://github.com/bitfocus/companion-module-novastar-splicer.git"
 	},
 	"dependencies": {
 	  "@companion-module/base": "~1.5.1",
