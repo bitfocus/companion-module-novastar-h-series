@@ -19,7 +19,7 @@
     "apiVersion": "0.0.0",
     "entrypoint": "../src/main.js"
   },
-  "legacyIds": [],
+  "legacyIds": ["novastar-h-series"],
   "manufacturer": "Novastar",
   "products": ["Splicer"],
   "keywords": ["Splicer", "Novastar", "H-series", "H2", "H5", "H9", "H15"]
