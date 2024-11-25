@@ -8,7 +8,6 @@ export const getFeedbacks = (instance) => {
       description: "Change the style when Freeze is pressed.",
       defaultStyle: {
         bgcolor: combineRgb(255, 0, 0),
-        text: "Unfreeze",
       },
       options: [],
       callback: (feedback) => {
@@ -22,7 +21,6 @@ export const getFeedbacks = (instance) => {
       description: "Change the style when FTB is pressed.",
       defaultStyle: {
         bgcolor: combineRgb(255, 0, 0),
-        text: "Cancel FTB",
       },
       options: [],
       callback: (feedback) => {

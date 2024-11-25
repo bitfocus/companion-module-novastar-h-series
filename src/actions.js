@@ -13,7 +13,6 @@ export const getActions = (instance) => {
       options: [
         {
           type: "dropdown",
-          name: "Screen",
           id: "screenId",
           label: "Screen",
           default: instance.screenList[0].id,
@@ -22,7 +21,6 @@ export const getActions = (instance) => {
         },
         {
           type: "dropdown",
-          name: "Preset",
           label: "Preset",
           id: "presetId",
           default: instance.presetList[0].id,
@@ -49,7 +47,6 @@ export const getActions = (instance) => {
         {
           type: "dropdown",
           label: "Screen",
-          name: "Screen",
           id: "screenId",
           default: instance.screenList[0].id,
           choices: instance.screenList,
@@ -57,7 +54,6 @@ export const getActions = (instance) => {
         },
         {
           type: "dropdown",
-          name: "Enable",
           id: "enable",
           label: "Enable",
           default: FREEZE_CHOICES[0].id,
@@ -122,7 +118,6 @@ export const getActions = (instance) => {
       options: [
         {
           type: "dropdown",
-          name: "Screen",
           label: "Screen",
           id: "screenId",
           default: instance.screenList[0].id,
@@ -131,7 +126,6 @@ export const getActions = (instance) => {
         },
         {
           type: "number",
-          name: "brightness",
           label: "Brightness",
           id: "brightness",
           default: 10,
@@ -160,7 +154,6 @@ export const getActions = (instance) => {
       options: [
         {
           type: "textinput",
-          name: "command",
           label: "Command",
           id: "command",
           default: DEFAULT_COMMAND,
