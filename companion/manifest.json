@@ -3,7 +3,7 @@
   "name": "novastar-splicer",
   "shortname": "novastar-splicer",
   "description": "Companion module for the splicer of Novastar",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "license": "MIT",
   "repository": "https://github.com/bitfocus/companion-module-novastar-splicer.git",
   "bugs": "https://github.com/bitfocus/companion-module-novastar-splicer.git/issues",
